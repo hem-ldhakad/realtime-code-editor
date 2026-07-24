@@ -1,6 +1,7 @@
 # Real-Time Collaborative Code Editor
 
 A collaborative code editor that allows multiple users to edit the same document simultaneously. The project uses **Yjs CRDTs** with **Socket.IO** to synchronize changes in real time while ensuring conflict-free collaboration.
+<img width="1916" height="976" alt="image" src="https://github.com/user-attachments/assets/b57745c9-1695-4031-bf2b-556f98d7ffd8" />
 
 ## Features
 - Real-time collaborative editing
